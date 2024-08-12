@@ -86,7 +86,7 @@ export default function Home() {
       <AppBar position="static" sx={{ bgcolor: '#000' }}>  {/* Black AppBar */}
         <Toolbar>
           <Typography variant="h6" component="div" sx={{ flexGrow: 1, textAlign: 'center' }}>
-            CHINGOS SUPERMARKET
+            CHITONIA SUPERMARKET
           </Typography>
         </Toolbar>
       </AppBar>
